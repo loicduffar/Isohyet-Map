@@ -1,6 +1,6 @@
 # Isohyet-Map
 
-Create a isohyet map (isovalues) from precipitation data at several raingauges. 
+This python notebook create a isohyet map (isovalues) from precipitation data at several raingauges. 
 The data should be stored by column in an excel file (with header row): raingauge NAME in one column, coordinates (longitude/latitude in decimal degrees) in 2 columns, precipitation data (one column for each event day/month/year). Missing values are allowed (blank cell or non numeric value).
 
 1) Run the 1rst cell below to read and display the precipitation data for one or several events (hour/day/month/year)
